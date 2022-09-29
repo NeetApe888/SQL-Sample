@@ -1,7 +1,7 @@
 
 # SQL Projects
 
-## Hi! 👋 Welcome to my SQL Projects in Ad Tech or maybe  I should programmatic advertising
+## Hi! 👋 Welcome to my SQL Projects in Ad Tech or maybe  I should say programmatic advertising
 This repository consist with few of my SQL projects I have done in my work, due to the company data privacy regulation, I will not be sharing any raw data files and final visualizations.
 
 ## Authors
