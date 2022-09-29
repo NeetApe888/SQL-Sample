@@ -10,7 +10,7 @@ This repository consist with all my SQL projects i have done in my work, due to 
 
 ## Appendix!
 
-[image](https://user-images.githubusercontent.com/96154381/193115056-497d0686-e50b-43fd-9f30-f5fbca6c37a3.png)
+![logo](https://user-images.githubusercontent.com/96154381/193115056-497d0686-e50b-43fd-9f30-f5fbca6c37a3.png)
 
 
 
